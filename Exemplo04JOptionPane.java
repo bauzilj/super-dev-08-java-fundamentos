@@ -13,7 +13,7 @@ public class Exemplo04JOptionPane {
         JOptionPane.showMessageDialog(null, 
         "Nome digitado: " + nome + 
         "\nQuantidade: " + quantidade +
-        "\nPreco: " + preco
+        "\nPreco: " + preco +
         "\nTotal: " + total +
         "\nPagou: " + pagou);
     }
